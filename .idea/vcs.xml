@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Enhanced Switches" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/For Loop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ternary Operator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/While Loop" vcs="Git" />
+  </component>
+</project>
